@@ -1,0 +1,36 @@
+{
+  "name": "react-native-test-library",
+  "version": "0.1.0",
+  "description": "test Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpose/react-native-social-fab"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "floating-action-button",
+    "social",
+    "expo",
+    "mobile"
+  ],
+  "bugs": {
+    "url": "https://github.com/kpose/react-native-social-fab/issues"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0-beta.5",
+    "react-native": "^0.49.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "babel-preset-expo": "~8.1.0",
+    "metro-react-native-babel-preset": "^0.59.0"
+  },
+  "author": "kartheek <kartheek.pagidimarri@kore.com> (https://github.com/SrinivasVa-Kore)",
+  "license": "MIT"
+}
